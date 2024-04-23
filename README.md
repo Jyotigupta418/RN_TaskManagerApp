@@ -4,7 +4,7 @@ This is a new [React Native](https://reactnative.dev) project, bootstrapped usin
 ![taskmanager screen1](./src/assets/ss1.jpg)
 ![taskmanager screen2](./src/assets/ss2.jpg)
 ![taskmanager screen2](./src/assets/ss3.jpg)
-![Video description](./src/assets/video.mp4)
+[Video description](./src/assets/video.mp4)
 
 # Getting Started
 
